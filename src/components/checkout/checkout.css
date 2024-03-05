@@ -1,0 +1,9 @@
+.products{
+    display: flex;
+    flex-basis: 80%;
+}
+
+.wrapper{
+    display: flex;
+    
+}
